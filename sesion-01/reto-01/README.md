@@ -12,6 +12,7 @@ diferencia?
 <html>
   <head>
     <!-- Aquí va información importante pero no visible dentro del navegador -->
+    <!-- No le estoy entendiendo -->
     <title>Matcha</title>
   </head>
   <body>
